@@ -13,4 +13,4 @@ const IOS_SIMULATOR_URL = "http://localhost:8000";
 const PHYSICAL_DEVICE_URL = `http://${YOUR_COMPUTER_IP}:8000`;
 
 // Export a single API_BASE variable
-export const API_BASE = PHYSICAL_DEVICE_URL;
+export const API_BASE = "https://smart-waste-backend-uggt.onrender.com";
