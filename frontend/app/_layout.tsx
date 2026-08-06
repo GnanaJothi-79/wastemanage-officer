@@ -1,4 +1,5 @@
 import { Stack } from 'expo-router';
+import { View, ActivityIndicator } from 'react-native';
 
 export default function RootLayout() {
   return (
